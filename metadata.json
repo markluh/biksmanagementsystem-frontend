@@ -1,0 +1,5 @@
+{
+  "name": "Club Management System",
+  "description": "A comprehensive system for club admins to manage members, tasks, events, and news, and for members to track their responsibilities and stay informed.",
+  "requestFramePermissions": []
+}
